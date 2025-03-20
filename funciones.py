@@ -68,7 +68,7 @@ def obtener_personajes():
     nombre_id_personajes = {}
 
     endpoint = "https://the-one-api.dev/v2/character"
-    headers = {"Authorization": "Escribe aquí tu tokken"}
+    headers = {"Authorization": "Bearer Escribe aquí tu tokken"}
 
     respuesta = requests.get(endpoint, headers=headers)
 
@@ -100,7 +100,7 @@ def obtener_citas():
 
     if id_personaje:
         endpoint = f"https://the-one-api.dev/v2/character/{id_personaje}/quote"
-        headers = {"Authorization": "Escribe aquí tu tokken"}
+        headers = {"Authorization": "Bearer Escribe aquí tu tokken"}
         
         respuesta = requests.get(endpoint, headers=headers)
         datos = respuesta.json()
