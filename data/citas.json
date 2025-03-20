@@ -1,0 +1,296 @@
+{
+    "docs": [
+        {
+            "_id": "5cd96e05de30eff6ebcce833",
+            "dialog": "You have fought many wars and slain many men Theoden King and made peace afterwards. Can we not take counsel together as we once did, my old friend?Can we not have peace you and I?",
+            "movie": "5cd95395de30eff6ebccde5d",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcce833"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcce835",
+            "dialog": "Gibbets and crows! Dotard! What do you want Gandalf Grahame? Let me guess' the key of Orthanc? Or perhaps the keys of Barad D'r itself? Along with the crowns of the seven Kings and the rods of the Five Wizards!",
+            "movie": "5cd95395de30eff6ebccde5d",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcce835"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcce842",
+            "dialog": "So you have come here for information. I have some for you. Something festers in the heart of Middle Earth. Something that you have failed to see. But the great eye has seen it! Even now he presses his advantage. His attack will come soon. You are all going to die! But you know this don't you Gandalf? You cannot think that this Ranger will ever sit upon the throne of Gondor. This exile, crept from the shadows will never be crowned King. Gandalf does not hesitate to sacrifice those who are closest to him' those he professes to love! Tell me, what words of comfort did you give the Halfling before you sent him to his doom? The path that you have set him on can only lead to death.",
+            "movie": "5cd95395de30eff6ebccde5d",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcce842"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcce843",
+            "dialog": "Save your pity and your mercy. I have no use for it!",
+            "movie": "5cd95395de30eff6ebccde5d",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcce843"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcce848",
+            "dialog": "Free? He will never be free!",
+            "movie": "5cd95395de30eff6ebccde5d",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcce848"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcce84e",
+            "dialog": "A man of Rohan? What is the house of Rohan but a thatched barn where brigands drink in the reek and their brats roll on the floor with the dogs? The victory at Helms Deep does not belong to you Theoden Horse Master. You are a lesser son of greater sires!",
+            "movie": "5cd95395de30eff6ebccde5d",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcce84e"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcce85d",
+            "dialog": "Get down cur!",
+            "movie": "5cd95395de30eff6ebccde5d",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcce85d"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcce860",
+            "dialog": "You withdraw your guard and I will tell you where your doom will be decided. I will not be held prisoner here!",
+            "movie": "5cd95395de30eff6ebccde5d",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcce860"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcceb76",
+            "dialog": "Gandalf the White. Gandalf the Fool! Does he seek to humble me with his newfound piety?",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcceb76"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcceb77",
+            "dialog": "The Ring of Barahir. So Gandalf Greyhame thinks he has found lsildur's heir. The lost king of Gondor. He is a fool. The line was broken years ago. It matters not. The world of Men shall fall. It will begin at Edoras.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcceb77"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcceb7c",
+            "dialog": "You stink of horse.The Man......was he from Gondor?",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcceb7c"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcceba0",
+            "dialog": "Send out your Warg-riders.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcceba0"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccec2d",
+            "dialog": "If the wall is breachedHelm's Deep will fall.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccec2d"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccec2f",
+            "dialog": "Tens of thousands.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccec2f"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccec31",
+            "dialog": "A new power is rising. Its victory is at hand.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccec31"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccec32",
+            "dialog": "There will be no dawn for Men.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccec32"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccec33",
+            "dialog": "This night, the land will be stainedwith the blood of Rohan! March to Helm's Deep! Leave none alive!",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccec33"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccec39",
+            "dialog": "To war!",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccec39"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccecd9",
+            "dialog": "The Old World will burnin the fires of industry. The forests will fall. A new order will rise. We will drive the machine of war with the sword and the spear and the iron fists of the Orc. We have only to remove those who oppose us.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccecd9"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccecda",
+            "dialog": "I want them armed and ready to march within two weeks!",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccecda"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccecdc",
+            "dialog": "Build a dam, block the streamwork the furnaces night and day.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccecdc"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccecdf",
+            "dialog": "The world is changing. Who now has the strength to stand against the armies of Isengard and Mordor? To stand against the might of Sauron and Saruman and the union of the two towers?",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccecdf"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccece0",
+            "dialog": "Together, my Lord Sauron, we shall rule this Middle-earth.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccece0"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcced41",
+            "dialog": "Swear it.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcced41"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcced43",
+            "dialog": "The Horse-Men took your lands.They drove your people into the hills to scratch a living off rocks.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcced43"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcced47",
+            "dialog": "We have only to remove those who oppose us. It will begin in Rohan. Too long have these peasants stood against you. But no more.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcced47"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcced49",
+            "dialog": "The Forest of Fangorn lies on our doorstep. Burn it.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcced49"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcced52",
+            "dialog": "Take back the lands they stole from you.Burn every village!",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcced52"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcced67",
+            "dialog": "The power of Isengard is at your command",
+            "movie": "5cd95395de30eff6ebccde5c",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcced67"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebcced69",
+            "dialog": "Sauron. Lord of the Earth.",
+            "movie": "5cd95395de30eff6ebccde5c",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebcced69"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccedca",
+            "dialog": "Rohan, my lord, is ready to fall.",
+            "movie": "5cd95395de30eff6ebccde5b",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccedca"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccedf5",
+            "dialog": "We have work to do.",
+            "movie": "5cd95395de30eff6ebccde5c",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccedf5"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccedf7",
+            "dialog": "Rip them all down.",
+            "movie": "5cd95395de30eff6ebccde5c",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccedf7"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccef6f",
+            "dialog": "So Gandalf, you try to lead them over Caradhras. And if that fails, where then will you go?",
+            "movie": "5cd95395de30eff6ebccde5c",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccef6f"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccef70",
+            "dialog": "If the mountain defeats you will you risk a more dangerous road",
+            "movie": "5cd95395de30eff6ebccde5c",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccef70"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccef71",
+            "dialog": "Cuiva nwalca Carnirasse; nai yarvaxea rasselya!",
+            "movie": "5cd95395de30eff6ebccde5c",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccef71"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccef7a",
+            "dialog": "Moria... you fear to go into those mines.",
+            "movie": "5cd95395de30eff6ebccde5c",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccef7a"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccef7b",
+            "dialog": "The dwarves delved too greadily and too deep.",
+            "movie": "5cd95395de30eff6ebccde5c",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccef7b"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccef7c",
+            "dialog": "You know what they woke in the dark of Khazad-d\u00fbm",
+            "movie": "5cd95395de30eff6ebccde5c",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccef7c"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccef7f",
+            "dialog": "Cuiva nwalca Carnirasse; Nai yarvaxea rasselya; taltuva notto-carinnar!",
+            "movie": "5cd95395de30eff6ebccde5c",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccef7f"
+        },
+        {
+            "_id": "5cd96e05de30eff6ebccef8b",
+            "dialog": "Shadow, flame.",
+            "movie": "5cd95395de30eff6ebccde5c",
+            "character": "5cd99d4bde30eff6ebccfea4",
+            "id": "5cd96e05de30eff6ebccef8b"
+        }
+    ],
+    "total": 41,
+    "limit": 1000,
+    "offset": 0,
+    "page": 1,
+    "pages": 1
+}
